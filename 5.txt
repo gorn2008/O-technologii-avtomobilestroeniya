@@ -9,3 +9,7 @@ English Galaxy
 
 Ссылка на установочный файл для игры Sid Meier's Civilization III Complete:
 https://rutracker.org/forum/viewtopic.php?t=5319055
+Civilization 3 Complete Windows 11 C:\Program Files\Civilization III Complete\Conquests\conquests.ini file settings:
+NOAIPatrol=0
+KeepRes=1
+PlayIntro=0

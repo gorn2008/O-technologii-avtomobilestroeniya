@@ -2,3 +2,5 @@ JDK (Java SE Development Kit) 25:
 https://www.oracle.com/java/technologies/downloads/#jdk25-windows
 Java SE Development Kit 25 Documentation:
 https://www.oracle.com/java/technologies/javase-jdk25-doc-downloads.html
+
+https://github.com/gorn2007/different/blob/master/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.rar

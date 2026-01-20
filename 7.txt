@@ -1,0 +1,4 @@
+JDK (Java SE Development Kit) 25:
+https://www.oracle.com/java/technologies/downloads/#jdk25-windows
+Java SE Development Kit 25 Documentation:
+https://www.oracle.com/java/technologies/javase-jdk25-doc-downloads.html

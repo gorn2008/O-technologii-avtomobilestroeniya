@@ -13,3 +13,7 @@ https://intuit.ru/
 - 100 0 (со временем на раунд 5 минут, 11 на 10)
 - 100 0 (со временем на раунд 1 минута, 10 на 10)
 - 20 0 на самом сложном уровне (со временем на раунд 1 минута, 10 на 10)
+
+https://rutracker.org/forum/viewtopic.php?t=3894169
+Серийник находится в .iso образе в файле I386\winnt.sif
+секция [UserData] параметр ProductID="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX"

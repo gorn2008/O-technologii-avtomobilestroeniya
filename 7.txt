@@ -16,4 +16,4 @@ https://intuit.ru/
 
 https://rutracker.org/forum/viewtopic.php?t=3894169
 Серийник находится в .iso образе в файле I386\winnt.sif
-секция [UserData] параметр ProductID="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX"
+секция [UserData] параметр ProductID="RTM4Q-C8KDH-TWFKW-XRKX4-H8RKB"
